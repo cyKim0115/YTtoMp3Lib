@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YDProjectClassLibrary", "YDProjectClassLibrary\YDProjectClassLibrary.csproj", "{14F059D3-7230-4D3D-8F21-8A0281111DC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YDLib", "YDLib\YDLib.csproj", "{14F059D3-7230-4D3D-8F21-8A0281111DC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

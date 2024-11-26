@@ -9,6 +9,7 @@
         <TargetFrameworks>netstandard2.1;net8.0;net48</TargetFrameworks>
         <LangVersion>10.0</LangVersion>
         <PackageIcon>nuget_icon.png</PackageIcon>
+        <RootNamespace>YDProjectClassLibrary</RootNamespace>
     </PropertyGroup>
     <ItemGroup>
         <None Include="nuget_icon.png" Pack="true" PackagePath=""/>
