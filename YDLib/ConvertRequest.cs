@@ -4,7 +4,7 @@ namespace YDLib;
 
 public class ConvertRequest
 {
-    public string Name { get; set; } = "";
-    public string Url { get; set; } = "";
-    public string Extension { get; set; } = ".mp3";
+    public string name { get; set; } = "";
+    public string url { get; set; } = "";
+    public string extension { get; set; } = ".mp3";
 }
