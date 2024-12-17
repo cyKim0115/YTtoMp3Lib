@@ -4,7 +4,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
-        <Version>1.0.4</Version>
+        <Version>1.0.5</Version>
         <UserSecretsId>0addd4e9-e0ba-4bb8-84ee-abaf39a9c9b8</UserSecretsId>
         <TargetFrameworks>netstandard2.1;net8.0;net48</TargetFrameworks>
         <LangVersion>10.0</LangVersion>
